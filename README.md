@@ -14,3 +14,5 @@ https://freepngimg.com/download/toy_story/23228-9-toy-story-woody-photos.png
 
 Dots Nine by IconSout
 https://iconscout.com/icons/dots-nine
+
+![Google](https://github.com/nadyab93/google-clone/assets/106110968/942e458d-d549-4dc6-ae90-cdece247699d)
