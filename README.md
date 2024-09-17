@@ -9,7 +9,7 @@ This project is a simple Google homepage clone built using HTML, CSS, and JavaSc
 # Features
 
 - Google Logo: Displays the Google logo at the top of the page.
-- Search Bar: Features an input field for search queries.
+- Search Bar: Features an input field.
 - Search Buttons: Includes "Google Search" and "I'm Feeling Lucky" buttons.
 - Dark Mode: Toggle between light and dark themes.
 - Footer: Contains links to various Google pages and settings.
@@ -17,8 +17,7 @@ This project is a simple Google homepage clone built using HTML, CSS, and JavaSc
 
 # Usage
 
-1) Search: Type a query into the search bar and use the buttons below for Google Search or "I'm Feeling Lucky".
-2) Toggle Dark Mode: Click the "Dark theme: off" link at the bottom to switch to dark mode, and vice versa.
+1) Toggle Dark Mode: Click the "Dark theme: off" link at the bottom to switch to dark mode, and vice versa.
 
 # Files Overview
 
@@ -36,7 +35,9 @@ This project is based on a tutorial from the YouTube channel [Future Coder](http
 
 # License
 
-This project is licensed under the MIT License. See the full license text below:
+MIT License
+
+Copyright (c) 2024 Nadya Melissa Bharrat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
