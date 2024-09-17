@@ -2,9 +2,9 @@
 
 This project is a simple Google homepage clone built using HTML, CSS, and JavaScript. It replicates the basic layout and functionality of Google's homepage and includes additional features such as a dark mode toggle, a footer, and responsive design.
 
-![Screenshot 2024-09-10 164415](https://github.com/user-attachments/assets/5c734e71-1b01-4c2f-892a-a8bf820b2fae)
+![Screenshot 2024-09-17 141739](https://github.com/user-attachments/assets/5872e808-e778-459d-94dd-748257b49154)
 
-![Screenshot 2024-09-10 164429](https://github.com/user-attachments/assets/b91d4eda-a4e4-4804-ac1d-142d5d0553a1)
+![Screenshot 2024-09-17 141755](https://github.com/user-attachments/assets/6fe3405a-3707-49e1-80a0-cbe98004cf9b)
 
 # Features
 
